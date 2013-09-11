@@ -3,7 +3,7 @@
   "description": "CSG plugin for Three.js",
   "homepage": "https://github.com/chandlerprall/ThreeCSG",
   "author": "Chandler Prall",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/ahdinosaur/meteor-ThreeCSG",
   "packages": {}
 }
