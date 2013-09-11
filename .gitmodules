@@ -1,0 +1,3 @@
+[submodule "lib/ThreeCSG"]
+	path = lib/ThreeCSG
+	url = git://github.com/chandlerprall/ThreeCSG.git
